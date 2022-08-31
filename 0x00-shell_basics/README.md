@@ -12,3 +12,4 @@ change working directory to previous one
 list files
 print file type
 create symbolic link
+copy html files
