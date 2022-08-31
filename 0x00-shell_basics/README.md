@@ -9,3 +9,4 @@ move Betty in my first directory
 to delete betty
 to delet my first directory
 change working directory to previous one
+list files
