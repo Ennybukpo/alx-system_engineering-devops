@@ -13,3 +13,4 @@ list files
 print file type
 create symbolic link
 copy html files
+move all files beginning with uppercase letter
