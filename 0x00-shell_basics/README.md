@@ -11,3 +11,4 @@ to delet my first directory
 change working directory to previous one
 list files
 print file type
+create symbolic link
