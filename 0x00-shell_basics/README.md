@@ -7,3 +7,4 @@ to display current working directory content in long numerically
 Create a script that creates a directory named my_first_directory
 move Betty in my first directory
 to delete betty
+to delet my first directory
