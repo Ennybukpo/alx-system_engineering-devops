@@ -14,3 +14,4 @@ print file type
 create symbolic link
 copy html files
 move all files beginning with uppercase letter
+Create a script that deletes all files in the current working directory that end with the character ~
