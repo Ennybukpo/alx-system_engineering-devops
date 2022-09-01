@@ -8,3 +8,4 @@ to add execution permission to owner, grp owner and everyuser
 script to set permission to file
 to set mode of file
 to set mode of file hello to same mode as file olleh
+to add execute permission toall sub directories
