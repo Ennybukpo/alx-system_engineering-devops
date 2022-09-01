@@ -6,3 +6,4 @@ to add execute permission to owner of file hello
 execute permission to the owner and the group owner, and read permission to other users
 to add execution permission to owner, grp owner and everyuser
 script to set permission to file
+to set mode of file
