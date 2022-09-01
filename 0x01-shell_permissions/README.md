@@ -11,3 +11,4 @@ to set mode of file hello to same mode as file olleh
 to add execute permission toall sub directories
 to creat directory my_dir with 751 permission
 changes group owner to schoolfor file hello
+change owner to vincent and group owner to staff
