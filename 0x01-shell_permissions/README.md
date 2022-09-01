@@ -7,3 +7,4 @@ execute permission to the owner and the group owner, and read permission to othe
 to add execution permission to owner, grp owner and everyuser
 script to set permission to file
 to set mode of file
+to set mode of file hello to same mode as file olleh
