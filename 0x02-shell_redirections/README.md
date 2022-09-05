@@ -4,3 +4,4 @@ Display the content of the /etc/passwd file.
 Display the content of /etc/passwd and /etc/hosts
 display 10 line of etc/passwd
 display 5 first lines of etc/passwd
+display third line of file iact, iacta is wd
