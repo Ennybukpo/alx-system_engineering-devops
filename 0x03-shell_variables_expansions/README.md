@@ -11,3 +11,4 @@ exponential breath
 binary to decimal
 combinations
 print float
+decimal to hexa
