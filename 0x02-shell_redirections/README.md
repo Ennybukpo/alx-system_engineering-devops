@@ -13,3 +13,4 @@ make your directores count
 whats new
 print words that appear only once
 it must be in that file
+to count words
