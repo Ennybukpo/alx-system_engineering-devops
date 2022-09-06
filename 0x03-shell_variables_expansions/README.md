@@ -3,3 +3,4 @@ greet user
 path
 global variables
 local variables
+create local variable
