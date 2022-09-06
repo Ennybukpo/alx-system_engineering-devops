@@ -9,3 +9,4 @@ true knowledge
 divide and rule
 exponential breath
 binary to decimal
+combinations
