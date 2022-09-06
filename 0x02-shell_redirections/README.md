@@ -20,3 +20,4 @@ letter only
 Replace all characters A and c from input to Z and e respectively
 remove c and C from input
 reverse its input
+display allusers and thier directories sorted by home
