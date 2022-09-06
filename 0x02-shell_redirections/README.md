@@ -16,3 +16,4 @@ it must be in that file
 to count words
 whats next
 hide word
+letter only
