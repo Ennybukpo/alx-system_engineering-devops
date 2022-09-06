@@ -10,3 +10,4 @@ divide and rule
 exponential breath
 binary to decimal
 combinations
+print float
