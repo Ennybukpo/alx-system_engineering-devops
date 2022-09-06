@@ -17,3 +17,4 @@ to count words
 whats next
 hide word
 letter only
+Replace all characters A and c from input to Z and e respectively
